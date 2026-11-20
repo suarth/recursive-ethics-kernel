@@ -1,4 +1,4 @@
-> *Exploratory notes from May 2025, drafted with heavy AI assistance. The cooperation and recursion ideas here were later developed formally in the Psychodynamics Models project: https://osf.io/z4yn2/*
+> *Exploratory notes from May 2025, drafted with heavy AI assistance. The cooperation and recursion ideas here were later developed formally in the Psychodynamics Models project: https://osf.io/z4yn2/* *Permanent archive: https://zenodo.org/communities/computational-psychodynamics*
 
 # Recursive Ethics Kernel (CAEP Attractor Seed)
 
